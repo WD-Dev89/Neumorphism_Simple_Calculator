@@ -1,0 +1,1 @@
+let screen= document.getElementById("screen"),display=num=>{screen.value += num;},calculate =()=>{try{screen.value=eval(screen.value);}catch(err){alert(`Error=>${err}`);}},aclear=()=>{screen.value="";},del=()=>{screen.value=screen.value.slice(0,-1);};
