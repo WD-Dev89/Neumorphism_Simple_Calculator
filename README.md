@@ -1,6 +1,6 @@
 # Neumorphism Simple Calculator
 It is simple Calculator Page built with HTML, CSS, and JavaScript.
-![Calculator Screenshot]()
+![Calculator Screenshot](./.screenshot/IMG.jpg)
 
 ## Demo
 
