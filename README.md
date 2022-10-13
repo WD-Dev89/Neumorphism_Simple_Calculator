@@ -9,5 +9,20 @@ It is simple Calculator Page built with HTML, CSS, and JavaScript.
 ```bash
 git clone https://github.com/WD-Dev89/Neumorphism_Simple_Calculator.git
 ```
+<details>
+<summary>Download contents</summary>
+
+```text
+  Neumorphism_Simple_Calculator/
+  ├── index.html
+  ├── css/
+  │   └── main.css
+  └── js/
+      └── main.js
+```
+</details>
+
 - Open up `index.html` on your favourite Browser
+
+
 
